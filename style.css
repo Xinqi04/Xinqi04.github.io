@@ -401,6 +401,11 @@ body {
         margin: 3px;
     }
 
+    .mynavbar .offcanvas {
+        width: 300px; /* Atur lebar elemen menjadi 300 piksel */
+        height: 100vh;
+    }
+
     .timeline li .timeline-image {
         width: 80px;
         height: 80px;
